@@ -1,0 +1,31 @@
+form#richiestaForm{
+    margin:auto;
+    width: 500px;
+}
+table#tabellaPrezzi{
+    width: 800px;
+    margin:auto;
+}
+table#tabellaTicket{
+    width: 900px;
+    margin:auto;
+}
+div#tabella-interventi{
+    margin-top: 50px;
+}
+div#dipendenti-table{
+    display: block;
+    margin-top: 50px;
+}
+table#tabellaDipendenti{
+    width: 900px;
+    margin:auto;
+}
+button#buttonAssegna{
+    margin-left: 72%;
+    margin-top: 1%;
+}
+div#handyman-table{
+    width: 1000px;
+    margin:auto;
+}
